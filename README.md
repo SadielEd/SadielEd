@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SadielEd, Iam studying Network Administration and Informatic Security.
-- 🌱 I’m currently learning Ruby,Crystal,Flutter
+- 🌱 I’m currently learning Rust and Flutter
 - 📫 How to reach me:
      Email                sadieled@proton.me
      Telegram             t.me/SadielEd
