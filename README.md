@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SadielEd, Network Administrator and Informatic Security specialist.
+- 👋 Hi, I’m @SadielEd, Network Administrator and Cybersecurity Specialist.
 - 📫 How to reach me:
      Email                sadieled@proton.me
      Telegram             t.me/SadielEd
