@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SadielEd, Iam studying Network Administration and Informatic Security.
-- 🌱 I’m currently learning Rust and Flutter
+- 👋 Hi, I’m @SadielEd, Network Administrator and Informatic Security specialist.
 - 📫 How to reach me:
      Email                sadieled@proton.me
      Telegram             t.me/SadielEd
